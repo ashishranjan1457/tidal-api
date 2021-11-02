@@ -1,6 +1,6 @@
 import tidalapi
 
-favFile = '/home/ashish/repos/tidalapi/tracks'
+favFile = ''
 
 def getItemIds(favItems):
 
